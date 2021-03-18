@@ -2,12 +2,19 @@
 
 Hi! I'm Reo, an iOS Developer from Japan.
 
-![uruly's github stats](https://github-readme-stats.vercel.app/api?username=uruly&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uruly)
+<a href="https://github.com/uruly">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=uruly&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/uruly">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uruly" />
+</a>
+
 
 ### 📱 Creation
 
 *AppStore*
+
+
 
 - [Repotch](https://apps.apple.com/us/app/repotch/id1537512055)(Task Report App)
 - [Sans](https://apps.apple.com/us/app/sans-screenshot-searcher/id1549792968)(Screenshot Searcher)
