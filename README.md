@@ -1,14 +1,8 @@
-### 💧 About Me
+### 👋 Hey there
 
-Hi! I'm an iOS Developer.
-
-### 📊 Stats
+Hi! I'm Reo, an iOS Developer from Japan.
 
 ![uruly's github stats](https://github-readme-stats.vercel.app/api?username=uruly&count_private=true&show_icons=true)
-
-
-### 🦢 Top Langs
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uruly)
 
 ### 📱 Creation
