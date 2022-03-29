@@ -1,9 +1,9 @@
-## About me
+## About
 
 どうも。Reoと言います。
 ものづくりが好きです。iOSアプリやWebサイトを作って生きています。
 
-## できること
+## Skill
 
 - iOSアプリ開発
 - Webサイト制作
@@ -32,14 +32,14 @@
 WordPress はテーマ作りからプラグインまで一応やってました。数年前です。
 [Aleph.js](https://alephjs.org/) はまだベータ版ですが気になってこのサイトで使っています。たのしい！
 
-## つくったもの
+## Products
 
 [プロダクト](https://uruly.com/products)にまとめてあります。
 (まだまとめてある(まとめてあるとは言っていない)状態)
 
 [AppStore](https://apps.apple.com/jp/developer/reona-kubo/id1051993924)にて配信中アプリもあります。
 
-## 近況
+## Current Status
 
 自分の作ったアプリでメシが食えた。うまい。(2022/3/28)
 
